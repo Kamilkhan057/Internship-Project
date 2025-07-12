@@ -1,0 +1,3 @@
+[submodule "VBS"]
+	path = VBS
+	url = https://github.com/yourusername/vbs-repo.git
